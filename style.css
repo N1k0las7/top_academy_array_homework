@@ -1,0 +1,15 @@
+body{
+    background-image: url(fon.jpeg);
+    background-size: cover;
+}
+#inp1{
+    background-color: aqua;
+}
+#inp2{
+    background-color: aqua;
+}
+button{
+    background-color: brown;
+    width: 10%;
+    border-radius: 10px;
+}
